@@ -2,7 +2,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # 🎟️ PONÉ TU TOKEN ACÁ
-BOT_TOKEN = "TU_TOKEN_ACÁ"
+BOT_TOKEN = "7937313627:AAE1dMjSFgul25jmyyMHWc4scyjJhfI7kjs"
 
 # 🎭 MENSAJE DE BIENVENIDA
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
